@@ -154,4 +154,4 @@ library(ggplot2)
 avail_packages %>% ggplot(aes(Depend)) + geom_bar()
 ```
 
-sessionInfo
+**sessionInfo**
